@@ -3,8 +3,8 @@ Deep learning paper and githup code, project
 
 # Table of Contents
 
-1. Image
 --------------------------------------------
+## Image
 :white_check_mark: [image classification](#imageclassification)
 
 :white_check_mark: [object detect](#objectdetect)
@@ -21,29 +21,29 @@ Deep learning paper and githup code, project
 
 :white_check_mark: [image caption](#imagecaption)
 
-2. Video
 --------------------------------------------
+## Video
 :white_check_mark: [action recognition](#actionrecognition)
 
 :white_check_mark: [video caption](#video caption)
 
 :white_check_mark: [tracking](#tracking)
 
-3. Audio
 --------------------------------------------
+## Audio
 
 
-4. GenerativeAdversarialNet
 --------------------------------------------
+## GenerativeAdversarialNet
 
 
-5. ReinforceLearning
 --------------------------------------------
+## ReinforceLearning
 
 
-6. TranferLearning
 --------------------------------------------
+## TranferLearning
 
 
-7. Tech
 --------------------------------------------
+## Tech
