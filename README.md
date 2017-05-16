@@ -13,7 +13,7 @@ Deep learning paper and githup code, project
 
 :white_check_mark: [face recognition](https://github.com/shaoxq/deeplearning_papers/image/face-recognition/README.md)
 
-:white_check_mark: [text recognition](/image/text-recognition/README.md)
+:white_check_mark: [text recognition](https://github.com/shaoxq/deeplearning_papers/image/text-recognition/README.md)
 
 :white_check_mark: [ocr](https://github.com/shaoxq/deeplearning_papers/image/ocr/README.md)
 
