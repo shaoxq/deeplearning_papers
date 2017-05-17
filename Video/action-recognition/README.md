@@ -2,14 +2,21 @@
 
 |Title|Date|Paper|Code|Project|
 |---|---|---|---|---|
-| Learning Spatiotemporal Features with 3D Convolutional Networks | 2015 | [ICCV](http://vlg.cs.dartmouth.edu/c3d/c3d_video.pdf) | [caffe](https://github.com/facebook/C3D) | [url](http://vlg.cs.dartmouth.edu/c3d) |
+| Learning Spatiotemporal Features with 3D Convolutional Networks | 2015 | [ICCV](http://vlg.cs.dartmouth.edu/c3d/c3d_video.pdf) | [caffe](https://github.com/facebook/C3D), [video-caffe](https://github.com/chuckcho/video-caffe)| [url](http://vlg.cs.dartmouth.edu/c3d) |
 
 # Two Stream Fusion
+
 |Title|Date|Paper|Code|Project|
 |---|---|---|---|---|
 | Convolutional Two-Stream Network Fusion for Video Action Recognition | 2016 | [CVPR ](https://arxiv.org/pdf/1604.06573.pdf) | [MatConvNet ](https://github.com/feichtenhofer/twostreamfusion) | [url](http://www.robots.ox.ac.uk/~vgg/software/two_stream_action) |
 | Two-Stream Convolutional Networks for Action Recognition in Videos  | 2014 | [NIPS ](https://arxiv.org/pdf/1406.2199.pdf) |  | [url](http://www.robots.ox.ac.uk/~vgg/software/two_stream_action) |
 | Temporal Segment Networks: Towards Good Practices for Deep Action Recognition | 2016 | [ECCV ](https://arxiv.org/pdf/1608.00859.pdf) | [ caffe](https://github.com/yjxiong/temporal-segment-networks) | [url](http://yjxiong.me/others/tsn/) |
+| Temporal Action Detection with Structured Segment Networks | 2016 | [SSN ](http://cn.arxiv.org/pdf/1704.06228v1) | [ coming soon](https://github.com/yjxiong/action-detection) | [url](http://yjxiong.me/others/ssn/#) |
 
+# LSTM
+
+|Title|Date|Paper|Code|Project|
+|---|---|---|---|---|
+| Long-term Recurrent Convolutional Networks for Visual Recognition and Description | 2015 | [CVPR ](https://arxiv.org/pdf/1411.4389.pdf) | [caffe ](https://github.com/LisaAnne/lisa-caffe-public/tree/lstm_video_deploy) | [url](https://people.eecs.berkeley.edu/~lisa_anne/LRCN_video) |
 
 
