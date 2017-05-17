@@ -3,29 +3,29 @@ Deep learning paper and github code, project
 
 --------------------------------------------
 ## Image
-:white_check_mark: [image classification](https://github.com/shaoxq/deeplearning_papers/image/image-classification/README.md)
+:white_check_mark: [image classification](https://github.com/shaoxq/deeplearning_papers/tree/master/image/image-classification)
 
-:white_check_mark: [object detect](https://github.com/shaoxq/deeplearning_papers/image/object-detect/README.md)
+:white_check_mark: [object detect](https://github.com/shaoxq/deeplearning_papers/tree/master/image/object-detect)
 
-:white_check_mark: [image segmentation](https://github.com/shaoxq/deeplearning_papers/image/image-segmentation/README.md)
+:white_check_mark: [image segmentation](https://github.com/shaoxq/deeplearning_papers/tree/master/image/image-segmentation)
 
-:white_check_mark: [face detect](https://github.com/shaoxq/deeplearning_papers/image/face-detect/README.md)
+:white_check_mark: [face detect](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/face-detect)
 
-:white_check_mark: [face recognition](https://github.com/shaoxq/deeplearning_papers/image/face-recognition/README.md)
+:white_check_mark: [face recognition](https://github.com/shaoxq/deeplearning_papers/tree/master/image/face-recognition)
 
-:white_check_mark: [text recognition](https://github.com/shaoxq/deeplearning_papers/image/text-recognition/README.md)
+:white_check_mark: [text recognition](https://github.com/shaoxq/deeplearning_papers/tree/master/image/text-recognition)
 
-:white_check_mark: [ocr](https://github.com/shaoxq/deeplearning_papers/image/ocr/README.md)
+:white_check_mark: [ocr](https://github.com/shaoxq/deeplearning_papers/tree/master/image/ocr)
 
-:white_check_mark: [image caption](https://github.com/shaoxq/deeplearning_papers/image/image-caption/README.md)
+:white_check_mark: [image caption](https://github.com/shaoxq/deeplearning_papers/tree/master/image/image-caption)
 
 --------------------------------------------
 ## Video
-:white_check_mark: [action recognition](https://github.com/shaoxq/deeplearning_papers/video/action-recognition/README.md)
+:white_check_mark: [action recognition](https://github.com/shaoxq/deeplearning_papers/tree/master/video/action-recognition)
 
-:white_check_mark: [video caption](https://github.com/shaoxq/deeplearning_papers/video/video-caption/README.md)
+:white_check_mark: [video caption](https://github.com/shaoxq/deeplearning_papers/tree/master/video/video-caption)
 
-:white_check_mark: [tracking](https://github.com/shaoxq/deeplearning_papers/video/tracking/README.md)
+:white_check_mark: [tracking](https://github.com/shaoxq/deeplearning_papers/tree/master/video/tracking)
 
 --------------------------------------------
 ## Retrival
