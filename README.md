@@ -1,5 +1,5 @@
 # deeplearning papers
-Deep learning paper and githup code, project
+Deep learning paper and github code, project
 
 --------------------------------------------
 ## Image
