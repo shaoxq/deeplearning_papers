@@ -7,6 +7,8 @@ Deep learning paper and github code, project
 
 :white_check_mark: [object detect](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/object-detect)
 
+:white_check_mark: [image retrival](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/retrival)
+
 :white_check_mark: [image segmentation](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/image-segmentation)
 
 :white_check_mark: [face detect](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/face-detect)

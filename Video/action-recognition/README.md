@@ -1,3 +1,5 @@
+[blog](https://github.com/shaoxq/deeplearning_papers/tree/master/Video/action-recognition/blog.md)
+
 # C3D
 
 |Title|Date|Paper|Code|Project|
