@@ -3,7 +3,7 @@ Deep learning paper and github code, project
 
 --------------------------------------------
 ## Image
-:white_check_mark: [image classification](https://github.com/shaoxq/deeplearning_papers/tree/master/image/image-classification)
+:white_check_mark: [image classification](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/image-classification)
 
 :white_check_mark: [object detect](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/object-detect)
 
