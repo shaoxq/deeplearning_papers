@@ -1,7 +1,6 @@
 [【深度学习】生成对抗网络Generative Adversarial Nets](http://blog.csdn.net/shenxiaolu1984/article/details/52215983)
 
-##### 在caffe 中实现Generative Adversarial Nets
-[1](http://blog.csdn.net/seven_first/article/details/52999758) [2](http://blog.csdn.net/seven_first/article/details/53100325)
+在caffe 中实现Generative Adversarial Nets [1](http://blog.csdn.net/seven_first/article/details/52999758) [2](http://blog.csdn.net/seven_first/article/details/53100325)
 
 [对抗样本和对抗网络](http://blog.csdn.net/solomon1558/article/details/52350595)
 

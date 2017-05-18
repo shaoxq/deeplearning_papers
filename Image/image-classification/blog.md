@@ -1,3 +1,3 @@
-[GoogleNet的Inception_v1、Inception_v2、Inception_v3、Inception_v4(整理)](http://blog.csdn.net/langb2014/article/details/52787095)
+[GoogleNet鐨処nception_v1銆両nception_v2銆両nception_v3銆両nception_v4(鏁寸悊)](http://blog.csdn.net/langb2014/article/details/52787095)
 
-[GoogLeNet系列解读](http://blog.csdn.net/shuzfan/article/details/50738394)
+[GoogLeNet绯诲垪瑙ｈ](http://blog.csdn.net/shuzfan/article/details/50738394)
