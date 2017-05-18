@@ -15,3 +15,5 @@
 [综述：计算机视觉中RNN应用于目标识别](http://blog.csdn.net/yaoxingfu72/article/details/51525878)
 
 [Deep Video Analytics](https://deepvideoanalytics.com/#demos)
+
+[deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)

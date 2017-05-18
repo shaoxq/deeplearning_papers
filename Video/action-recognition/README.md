@@ -4,7 +4,7 @@
 
 |Title|Date|Paper|Code|Project|
 |---|---|---|---|---|
-| Learning Spatiotemporal Features with 3D Convolutional Networks | 2015 | [ICCV](http://vlg.cs.dartmouth.edu/c3d/c3d_video.pdf) | [caffe](https://github.com/facebook/C3D), [video-caffe](https://github.com/chuckcho/video-caffe)| [url](http://vlg.cs.dartmouth.edu/c3d) |
+| Learning Spatiotemporal Features with 3D Convolutional Networks | 2015 | [ICCV](http://vlg.cs.dartmouth.edu/c3d/c3d_video.pdf) | [caffe](https://github.com/facebook/C3D), [video-caffe](https://github.com/chuckcho/video-caffe),[tensorflow](https://github.com/hx173149/C3D-tensorflow), [New-C3D-Caffe](https://github.com/antran89/New-C3D-Caffe)| [url](http://vlg.cs.dartmouth.edu/c3d) |
 
 # Two Stream Fusion
 
@@ -33,4 +33,25 @@
 
 |Title|Date|Paper|Code|Project|
 |---|---|---|---|---|
-| Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors (TDD+FV)| 2015 | [CVPR ](https://arxiv.org/pdf/1505.04868.pdf) | [caffe](https://github.com/wanglimin/tdd/) | |
+| Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors (TDD+FV)| 2015 | [CVPR ](https://arxiv.org/pdf/1505.04868.pdf) | [caffe](https://github.com/wanglimin/TDD/) | |
+| Long-term Temporal Convolutions for Action Recognition | 2016 | [arXiv](https://arxiv.org/pdf/1604.04494.pdf) | [caffe}(https://github.com/gulvarol/ltc) | [url](http://www.di.ens.fr/willow/research/ltc/) |
+
+[five-video-classification-methods](https://github.com/harvitronix/five-video-classification-methods)
+
+[Spatio-Temporal-Feature-Learning-for-Sign-Language-using-3D-Convolutional-Networks](https://github.com/Kaushikpatnaik/Spatio-Temporal-Feature-Learning-for-Sign-Language-using-3D-Convolutional-Networks)
+
+[dynamic-image-nets](https://github.com/hbilen/dynamic-image-nets)
+
+[deep-activity-rec](https://github.com/mostafa-saad/deep-activity-rec)
+
+[video-Classification-Caffe](https://github.com/helicese/video-Classification-Caffe)
+
+[multilabel-video-caffe](https://github.com/huerlima/multilabel-video-caffe)
+
+[action.sr_cnn](https://github.com/yifita/action.sr_cnn)
+
+[action recognition in videos](https://github.com/farzadhusain/caffe)
+
+[Action Recognition with Deep Learning](https://github.com/yjxiong/caffe)
+
+[my-very-deep-caffe](https://github.com/antran89/my-very-deep-caffe)

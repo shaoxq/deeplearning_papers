@@ -11,8 +11,6 @@
 
 :white_check_mark: [image segmentation](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/imagesegmentation)
 
-:white_check_mark: [face detect](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/face-detect)
-
 :white_check_mark: [face recognition](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/face-recognition)
 
 :white_check_mark: [text recognition](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/text-recognition)
@@ -30,9 +28,6 @@
 :white_check_mark: [tracking](https://github.com/shaoxq/deeplearning_papers/tree/master/Video/tracking)
 
 :white_check_mark: [video_segmentation](https://github.com/shaoxq/deeplearning_papers/tree/master/Video/video_segmentation)
-
---------------------------------------------
-## Retrival
 
 --------------------------------------------
 ## Audio
