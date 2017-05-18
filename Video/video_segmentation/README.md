@@ -1,0 +1,1 @@
+[OSVOS: One-Shot Video Object Segmentation](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)

@@ -38,4 +38,10 @@
 
 [用YOLOv2模型训练VOC数据集](http://blog.csdn.net/u014540717/article/details/53411948)
 
-[ YOLOv2如何fine-tuning？](http://blog.csdn.net/u014540717/article/details/53424843)
+[YOLOv2如何fine-tuning？](http://blog.csdn.net/u014540717/article/details/53424843)
+
+[MSRA R-FCN代码公布（Caffe&Matlab）](http://geek.csdn.net/news/detail/83007)
+
+[object detection](http://www.360doc.com/content/16/1018/14/18306241_599347131.shtml)
+
+[深度学习进修目标识别的资源列表](http://www.360doc.com/content/16/0917/15/36492363_591484818.shtml)

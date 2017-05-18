@@ -1,3 +1,5 @@
+[blog](https://github.com/shaoxq/deeplearning_papers/blog.md) [homepage](https://github.com/shaoxq/deeplearning_papers/homepage.md)
+
 # deeplearning papers
 Deep learning paper and github code, project
 
@@ -29,6 +31,8 @@ Deep learning paper and github code, project
 
 :white_check_mark: [tracking](https://github.com/shaoxq/deeplearning_papers/tree/master/Video/tracking)
 
+:white_check_mark: [video_segmentation](https://github.com/shaoxq/deeplearning_papers/tree/master/Video/video_segmentation)
+
 --------------------------------------------
 ## Retrival
 
@@ -38,7 +42,7 @@ Deep learning paper and github code, project
 
 --------------------------------------------
 ## GenerativeAdversarialNet
-
+:white_check_mark: [GeneraivAdversariaNet](https://github.com/shaoxq/deeplearning_papers/tree/master/GenerativeAdversarialNet)
 
 --------------------------------------------
 ## ReinforceLearning
