@@ -1,4 +1,4 @@
-[blog](https://github.com/shaoxq/deeplearning_papers/blob/maste/blog.md) [homepage](https://github.com/shaoxq/deeplearning_papers/blob/master/homepage.md) [extend](https://github.com/shaoxq/deeplearning_papers/blob/master/local.md)
+[blog](https://github.com/shaoxq/deeplearning_papers/blob/maste/blog.md) [homepage](https://github.com/shaoxq/deeplearning_papers/blob/master/homepage.md)
 
 # deeplearning papers
 Deep learning paper and github code, project
@@ -54,3 +54,4 @@ Deep learning paper and github code, project
 
 --------------------------------------------
 ## Tech
+:white_check_mark: [Technology Collection](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech)
