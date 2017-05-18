@@ -16,3 +16,9 @@
 [DeepHarmonization](https://github.com/wasidennis/DeepHarmonization)
 
 [Inception-v4](https://github.com/titu1994/Inception-v4)
+
+[deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
+
+[ResNet examples](https://github.com/tao-j/resnet)
+
+[tensorflow-resnet](https://github.com/ry/tensorflow-resnet)

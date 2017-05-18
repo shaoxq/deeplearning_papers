@@ -9,7 +9,7 @@
 
 [Caffe_Matlab_GAN](https://github.com/kpzhang93/Caffe_Matlab_GAN)
 
-[ss-gan](https://github.com/xiaolonw/ss-gan
+[ss-gan](https://github.com/xiaolonw/ss-gan)
 
 [adversarial-frcnn](https://github.com/xiaolonw/adversarial-frcnn)
 
