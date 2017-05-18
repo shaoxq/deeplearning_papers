@@ -6,9 +6,9 @@
 
 [tutorial_deep_learning](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech/paper/tutorial_deep_learning.pdf)
 
-[Caffe官方教程中译本 ](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech/paper/Caffe官方教程中译本 .pdf)
+[Caffe官方教程中译本](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech/paper/Caffe官方教程中译本.pdf)
 
-[caffe深度学习薛开宇笔记实例-基于卷积神经网络的声音识别 ](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech/paper/caffe深度学习薛开宇笔记实例-基于卷积神经网络的声音识别 .pdf)
+[caffe深度学习薛开宇笔记实例-基于卷积神经网络的声音识别 ](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech/paper/caffe深度学习薛开宇笔记实例-基于卷积神经网络的声音识别.pdf)
 
 [斯坦福大学-深度学习基础教程](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech/paper/斯坦福大学-深度学习基础教程.pdf)
 
@@ -20,7 +20,7 @@
 
 [caffe notes](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech/paper/caffe-notes.docx)
 
-[DIY Deep Learning for Vision-a Hands On Tutorial with Caffe](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech/paper/20150531-贾扬清-DIY-Deep-Learning-for-Vision- a-Hands-On-Tutorial-with-Caffe.pdf)
+[DIY Deep Learning for Vision-a Hands On Tutorial with Caffe](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech/paper/20150531-贾扬清-DIY-Deep-Learning-for-Vision-a-Hands-On-Tutorial-with-Caffe.pdf)
 
 [ImageNet Label](https://github.com/shaoxq/deeplearning_papers/tree/master/Tech/paper/ImageLabel.xlsx)
 

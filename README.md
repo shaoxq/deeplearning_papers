@@ -1,8 +1,6 @@
-[blog](https://github.com/shaoxq/deeplearning_papers/blob/maste/blog.md) [homepage](https://github.com/shaoxq/deeplearning_papers/blob/master/homepage.md)
+[blog](https://github.com/shaoxq/deeplearning_papers/blob/master/blog.md) [homepage](https://github.com/shaoxq/deeplearning_papers/blob/master/homepage.md)
 
 # deeplearning papers
-Deep learning paper and github code, project
-
 --------------------------------------------
 ## Image
 :white_check_mark: [image classification](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/image-classification)
