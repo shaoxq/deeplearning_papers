@@ -13,9 +13,9 @@
 
 :white_check_mark: [face recognition](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/face-recognition)
 
-+:x: [text recognition](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/text-recognition)
+:x: [text recognition](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/text-recognition)
 
-+:x: [ocr](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/ocr)
+:x: [ocr](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/ocr)
 
 :white_check_mark: [image caption](https://github.com/shaoxq/deeplearning_papers/tree/master/Image/image-caption)
 
@@ -25,7 +25,7 @@
 
 :white_check_mark: [video caption](https://github.com/shaoxq/deeplearning_papers/tree/master/Video/video-caption)
 
-+:x: [tracking](https://github.com/shaoxq/deeplearning_papers/tree/master/Video/tracking)
+:x: [tracking](https://github.com/shaoxq/deeplearning_papers/tree/master/Video/tracking)
 
 :white_check_mark: [video_segmentation](https://github.com/shaoxq/deeplearning_papers/tree/master/Video/video_segmentation)
 
@@ -35,14 +35,14 @@
 
 
 --------------------------------------------
-## Audio
+:x: ## Audio
 
 --------------------------------------------
-## ReinforceLearning
+:x: ## ReinforceLearning
 
 
 --------------------------------------------
-## TranferLearning
+:x: ## TranferLearning
 
 
 --------------------------------------------
