@@ -55,3 +55,5 @@
 [Action Recognition with Deep Learning](https://github.com/yjxiong/caffe)
 
 [my-very-deep-caffe](https://github.com/antran89/my-very-deep-caffe)
+
+[Deep Feature Flow for Video Recognition](https://github.com/msracver/Deep-Feature-Flow)

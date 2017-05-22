@@ -9,3 +9,5 @@
 [CRF-RNN for Semantic Image Segmentation](https://github.com/torrvision/crfasrnn)
 
 [deepmask](https://github.com/facebookresearch/deepmask)
+
+[Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS)
