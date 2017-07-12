@@ -22,3 +22,5 @@
 [ResNet examples](https://github.com/tao-j/resnet)
 
 [tensorflow-resnet](https://github.com/ry/tensorflow-resnet)
+
+[Selective-Joint-Fine-tuning](https://github.com/ZYYSzj/Selective-Joint-Fine-tuning)
