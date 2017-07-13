@@ -3,3 +3,5 @@
 [Opencv学习笔记（九）光流法](http://blog.csdn.net/crzy_sparrow/article/details/7407604)
 
 [光流计算方法及编程](http://blog.csdn.net/shengzhuzhu/article/details/7450705)
+
+tensorflow with video classification [cnn+lstm] (https://github.com/sagarvegad/Video-Classification-CNN-and-LSTM-) [LSTM](https://github.com/frankgu/tensorflow_video_classification_LSTM) []()
