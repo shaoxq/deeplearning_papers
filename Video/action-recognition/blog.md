@@ -4,4 +4,4 @@
 
 [光流计算方法及编程](http://blog.csdn.net/shengzhuzhu/article/details/7450705)
 
-tensorflow with video classification [cnn+lstm] (https://github.com/sagarvegad/Video-Classification-CNN-and-LSTM-) [LSTM](https://github.com/frankgu/tensorflow_video_classification_LSTM) []()
+tensorflow with video classification [cnn+lstm](https://github.com/sagarvegad/Video-Classification-CNN-and-LSTM-) [LSTM](https://github.com/frankgu/tensorflow_video_classification_LSTM)
