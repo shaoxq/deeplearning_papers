@@ -30,3 +30,5 @@
 [rcnn](https://github.com/rbgirshick/rcnn)
 
 [DeepPyramid](https://github.com/rbgirshick/DeepPyramid)
+
+[DeepRNN](https://github.com/DeepRNN/object_detection)
