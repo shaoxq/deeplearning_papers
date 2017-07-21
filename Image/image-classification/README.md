@@ -24,3 +24,5 @@
 [tensorflow-resnet](https://github.com/ry/tensorflow-resnet)
 
 [Selective-Joint-Fine-tuning](https://github.com/ZYYSzj/Selective-Joint-Fine-tuning)
+
+[transfer-learning-for-oxford102](https://github.com/Arsey/keras-transfer-learning-for-oxford102)
