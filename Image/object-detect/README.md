@@ -32,3 +32,5 @@
 [DeepPyramid](https://github.com/rbgirshick/DeepPyramid)
 
 [DeepRNN](https://github.com/DeepRNN/object_detection)
+
+[tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
