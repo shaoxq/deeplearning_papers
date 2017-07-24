@@ -57,3 +57,5 @@
 [my-very-deep-caffe](https://github.com/antran89/my-very-deep-caffe)
 
 [Deep Feature Flow for Video Recognition](https://github.com/msracver/Deep-Feature-Flow)
+
+[cdc](http://www.ee.columbia.edu/ln/dvmm/researchProjects/cdc/cdc.html）
