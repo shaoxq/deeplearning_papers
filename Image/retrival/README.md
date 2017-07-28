@@ -17,4 +17,4 @@
 
 [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision)
 
-[netvlad](https://github.com/Relja/netvlad)
+[netvlad](https://github.com/Relja/netvlad) [netvlad-caffe](https://github.com/hyojinie/crn)
