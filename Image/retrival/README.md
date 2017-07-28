@@ -16,3 +16,5 @@
 [facebook faiss](https://github.com/facebookresearch/faiss)
 
 [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision)
+
+[netvlad](https://github.com/Relja/netvlad)
