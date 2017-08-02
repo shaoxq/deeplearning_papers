@@ -28,3 +28,7 @@
 [transfer-learning-for-oxford102](https://github.com/Arsey/keras-transfer-learning-for-oxford102)
 
 [resnet tensorflow](https://github.com/rainer85ah/Papers2Code)
+
+[some caffe protocal1](https://github.com/mrgloom/kaggle-dogs-vs-cats-solution)
+
+[some caffe protocal](https://github.com/rainer85ah/Papers2Code)
