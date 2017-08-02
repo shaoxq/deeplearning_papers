@@ -9,3 +9,5 @@
 [yolo](https://pjreddie.com/darknet/yolo/)
 
 [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+
+[video recognition,detection,tracking](http://feichtenhofer.github.io/)
