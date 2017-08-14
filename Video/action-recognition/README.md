@@ -58,6 +58,8 @@
 
 [Deep Feature Flow for Video Recognition](https://github.com/msracver/Deep-Feature-Flow)
 
-[cdc](http://www.ee.columbia.edu/ln/dvmm/researchProjects/cdc/cdc.html）
+[cdc](http://www.ee.columbia.edu/ln/dvmm/researchProjects/cdc/cdc.html)
 
 [scnn](https://github.com/zhengshou/scnn/)
+
+[hand recognition](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
